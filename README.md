@@ -254,6 +254,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [API Testing Techniques - Part 1](https://newsletter.systemdesign.one/p/api-testing-types)
 - [API Testing Techniques - Part 2](https://newsletter.systemdesign.one/p/types-of-api-testing)
 - [API Design Concepts - Part 1](https://newsletter.systemdesign.one/p/api-concepts-every-software-engineer-should-know/)
+- [API Design Concepts - Part 2](https://newsletter.systemdesign.one/p/api-concepts-for-software-engineers)
 
 #### B technologies
 
