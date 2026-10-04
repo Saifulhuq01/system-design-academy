@@ -480,6 +480,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 
 - [Vector Database - A Deep Dive](https://newsletter.systemdesign.one/p/what-is-a-vector-database)
 - [Vertical Small LLM](https://newsletter.systemdesign.one/p/fine-tuning-small-language-models)
+- [How Vector Database Search Billions of Vectors in Milliseconds](https://newsletter.systemdesign.one/p/hnsw-vector-search-explained)
 
 
 ---
