@@ -407,6 +407,7 @@ Agents can generate code. Getting it right for your system is the hard part. You
 - [Agentic AI Use Cases in Software Development Workflow](https://newsletter.systemdesign.one/p/agentic-ai-use-cases)
 - [30 Agentic Engineering Concepts, Explained Simply](https://newsletter.systemdesign.one/p/agentic-engineering)
 - [How Agent to Agent Protocol Works](https://newsletter.systemdesign.one/p/agent-to-agent-protocol)
+- [64 AI Concepts - Part 1](https://newsletter.systemdesign.one/p/ai-concepts-explained-for-beginners)
 
 #### C ai
 
